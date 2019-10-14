@@ -11,6 +11,7 @@ My favorite classes to teach, in no particular order:
 6. Stats anything
 
 I am ga3798 this is a change
+more changes
 # the following have been merged into master
 Here are some changes that I propose in beta
 Additional line added in beta
